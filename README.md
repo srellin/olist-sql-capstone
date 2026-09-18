@@ -4,7 +4,7 @@
 
 ## 📁 Dataset
 
-For this project, I used the Olist e-commerce dataset from Kaggle. It has eight tables containing information about customers, orders, payments, products, sellers, reviews, order items, and locations.
+This project uses the Olist Brazilian e-commerce dataset from Kaggle, which contains information on customer purchases made through the Olist platform. The dataset is organized into eight related tables covering customers, orders, payments, products, sellers, reviews, order items, and geographic locations. These tables were used together to examine customer spending, revenue trends, product performance, and buying behavior.
 
 ---
 
