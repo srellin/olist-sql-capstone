@@ -1,23 +1,29 @@
 # Olist SQL Capstone Project
 
-## Dataset
+---
 
-The dataset used for this project is the Olist e-commerce dataset from Kaggle. It contains eight tables with information about customers, orders, payments, products, sellers, reviews, order items, and locations.
+## 📁 Dataset
 
-## Questions
+For this project, I used the Olist e-commerce dataset from Kaggle. It has eight tables containing information about customers, orders, payments, products, sellers, reviews, order items, and locations.
 
-1. Top 10 customers by total amount spent
-2. Monthly revenue trend
-3. Month-over-month change in revenue
-4. Product categories generating the most revenue
-5. Top three products within each category
-6. Customer spend tiers
-7. Repeat buyers versus one-time buyers
-8. Percentage of revenue from the top category
+---
 
-## Key Findings
+## ❓ Questions
 
-- The highest monthly revenue was recorded in November 2017.
-- The product category with the highest revenue was beleza_saude.
-- Most customers were one-time buyers.
-- The top category contributed 9.26% of the total product revenue.
+1. Who are the top 10 customers based on total amount spent?
+2. What is the monthly revenue trend?
+3. What is the month-over-month change in revenue?
+4. Which product categories generate the most revenue?
+5. What are the top three products in each category?
+6. Which customers belong to the low, medium, and high spend tiers?
+7. How many customers are repeat buyers and one-time buyers?
+8. What percentage of total revenue comes from the top category?
+
+---
+
+## 📌 Key Findings
+
+- **November 2017** had the highest monthly revenue.
+- **beleza_saude** was the product category with the highest revenue.
+- Most customers were **one-time buyers**.
+- The top category contributed **9.26%** of total product revenue.
