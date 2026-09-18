@@ -1,0 +1,11 @@
+-- 2. monthly revenue trend
+use olist;
+
+select
+    date_format(o.order_purchase_timestamp, '%Y-%m') as order_month,
+    format(sum(op.payment_value), 2) as monthly_revenue
+from orders o
+join order_payments op
+    on o.order_id = op.order_id
+group by date_format(o.order_purchase_timestamp, '%Y-%m')
+order by order_month;
